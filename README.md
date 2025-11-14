@@ -1,4 +1,4 @@
-<h2 align="left">Hello!  am Vitória, a computer science studant ❤🫶</h2>
+
 
 ###
 
